@@ -1,0 +1,90 @@
+,helping_others_confidence,study_group_yesno,feel_confidence,feel_confidence2,study_group_preference,education_fulfillment,curr_class,curr_units,approx_gpa_year1,approx_gpa_win22_1,approx_gpa_win22_2,year,gender,age
+0,3,Yes,1,3,Alone,3,CS105,12,3.5,3.9,3.43,Junior,Woman,21
+1,5,No,3,4,Alone,4,CS111,14,3.9,3.75,3.81,Sophomore,Man,20
+2,5,No,3,3,All the above,2,CS111,12,2.7,2.7,2.7,Sophomore,Man,19
+3,4,Yes,4,4,In groups,4,CS105,17,3.9,3.9,3.9,Junior,Man,20
+4,1,No,3,3,Alone,4,CS111,15,3.4,3.4,3.4,Junior,Man,21
+5,5,Yes,3,4,All the above,3,CS105,17,3.88,3.88,3.88,Junior,Man,21
+6,3,Yes,2,3,Alone,4,CS105,16,3.44,3.4,3.44,Junior,Man,27
+7,5,No,3,4,Partner,3,CS105,12,,3.25,3.25,Junior,Man,20
+8,3,No,2,2,All the above,1,CS105,16,4.0,3.6,3.8,Junior,Man,21
+9,4,No,4,4,Alone,2,CS105,16,2.1,3,2.2,Senior,Man,23
+10,2,No,1,2,Alone,2,CS105,16,3.45,3.55,3.45,Junior,Man,24
+11,4,No,5,5,Alone,4,CS105,12,4.0,4,3.97,Graduate,Man,22
+12,4,No,3,3,In groups,3,CS105,16,3.65,4,3.65,Junior,Man,22
+13,4,No,4,3,Alone,3,CS105,12,3.4,3,3.0,Senior,Man,24
+14,5,No,4,5,Alone,4,CS141,16,2.85,3.57,2.9,Senior,Man,23
+15,5,Yes,4,2,In groups,5,CS105,16,3.74,3.9,3.86,Junior,Man,21
+16,4,No,3,3,All the above,4,CS105,12,3.8,3,3.13,Junior,Man,20
+17,5,Yes,3,4,All the above,3,CS141,19,3.77,3.5,3.92,Junior,Man,22
+18,4,No,3,3,Partner,4,CS105,20,3.4,3.3,3.3,Senior,Man,22
+19,4,No,1,1,All the above,2,CS105,4,3.5,3.25,2.97,Junior,Woman,26
+20,3,Yes,2,3,All the above,2,CS111,13,3.8,3.8,3.6,Sophomore,Non-binary/non-conforming,20
+21,5,No,4,4,Partner,4,CS105,12,3.4,3.45,3.51,Senior,Man,21
+22,5,Yes,2,4,All the above,3,CS105,17,3.48,3.75,3.5,Sophomore,Man,20
+23,4,No,2,4,Alone,3,CS105,18,3.44,3.81,3.6,Sophomore,Man,20
+24,3,No,4,4,Alone,4,CS105,12,4.0,3.6,3.4,Graduate,Man,24
+25,5,Yes,4,3,Partner,2,CS105,13,3.52,2.46,3.12,Junior,Man,23
+26,2,Yes,2,1,In groups,2,CS141,13,3.9,3.87,3.87,Sophomore,Man,19
+27,5,Yes,4,3,Partner,4,CS141,17,2.97,3.2,2.97,Junior,Man,21
+28,5,Yes,4,4,Partner,4,CS105,16,4.0,3.84,3.96,Sophomore,Woman,21
+29,3,Yes,2,2,Partner,3,CS141,14,3.69,3.7,3.7,Sophomore,Man,20
+30,5,Yes,2,4,In groups,2,CS141,16,3.76,3.8,3.76,Senior,Man,22
+31,2,Yes,1,1,Alone,1,CS141,17,2.99,3,3.01,Sophomore,Man,20
+32,5,Yes,4,4,In groups,4,CS111,12,3.7,didnt attend,3.7,Senior,Man,21
+33,3,No,2,3,Alone,3,CS141,12,,3.33,3.52,Junior,Man,22
+34,4,Yes,4,3,All the above,4,CS141,13,4.0,3.97,3.85,Sophomore,Woman,20
+35,4,Yes,3,4,All the above,4,CS141,16,4.0,4,4.0,Junior,Man,20
+36,5,No,3,4,Partner,5,CS105,14,3.97,4,3.98,Sophomore,Man,20
+37,2,No,3,4,Alone,5,CS141,17,3.8,3.8,3.79,Sophomore,Woman,19
+38,4,No,3,3,Alone,3,CS111,17,3.5,3,3.3,Sophomore,Man,20
+39,5,Yes,2,4,In groups,2,CS111,0,3.65,3.65,3.35,Sophomore,Man,20
+40,5,Yes,3,4,All the above,4,CS111,9,4.0,4,4.0,Senior,Man,22
+41,4,Yes,3,3,All the above,3,CS141,17,3.5,3.5,3.6,Junior,Woman,21
+42,4,No,4,2,Alone,2,CS105,12,3.55,2.64,3.46,Junior,Man,20
+43,4,No,1,2,Alone,2,CS111,12,2.6,1.5,2.88,Junior,Man,21
+44,4,No,2,2,In groups,4,CS141,17,3.8,3.6,3.5,Sophomore,Woman,19
+45,2,No,2,1,In groups,3,CS111,13,3.1,2.4,2.98,Sophomore,Man,19
+46,5,No,2,3,Partner,4,CS141,13,4.0,4,4.0,Sophomore,Woman,20
+47,4,Yes,2,3,All the above,3,CS141,12,3.86,4,3.63,Sophomore,Woman,20
+48,5,Yes,4,4,In groups,4,CS141,17,,3.24,3.12,Sophomore,Man,19
+49,5,Yes,2,1,Partner,4,CS105,12,3.36,2.53,3.21,Sophomore,Woman,19
+50,4,Yes,2,4,Partner,3,CS141,16,3.97,3,3.89,Sophomore,Man,19
+51,5,Yes,4,4,All the above,4,CS141,13,4.0,4,4.0,Sophomore,Man,19
+52,5,Yes,3,5,All the above,4,CS141,13,4.0,4,4.0,Sophomore,Man,19
+53,5,Yes,1,1,Alone,2,CS105,17,3.8,3.61,3.61,Sophomore,Man,19
+54,4,No,5,5,Alone,4,CS105,12,3.7,2.8,3.1,Sophomore,Man,19
+55,5,No,3,4,In groups,4,CS105,16,,2.68,2.95,Junior,Man,22
+56,4,No,2,2,In groups,2,CS105,13,3.57,3.43,3.55,Sophomore,Woman,19
+57,2,No,3,3,Partner,4,CS105,16,3.78,3.43,3.7,Junior,Woman,20
+58,4,Yes,3,3,All the above,3,CS105,16,3.97,3.76,3.87,Junior,Man,21
+59,4,Yes,3,3,In groups,2,CS105,12,3.77,3.69,3.76,Junior,Man,21
+60,3,Yes,3,3,All the above,3,CS105,16,3.4,3.7,3.54,Junior,Man,20
+61,5,Yes,3,3,Partner,5,CS111,13,3.64,3.64,3.64,Sophomore,Woman,20
+62,4,No,3,3,All the above,4,CS141,13,3.6,3.4,3.5,Sophomore,Man,20
+63,3,No,2,3,Partner,1,CS105,17,3.6,3.9,3.82,Junior,Man,20
+64,5,Yes,4,3,Partner,3,CS105,12,3.6,3.8,3.8,Junior,Man,22
+65,5,No,3,3,Alone,4,CS111,16,3.66,2.3,2.96,Senior,Man,22
+66,2,Yes,1,3,Partner,2,CS105,20,3.0,3.3,3.19,Senior,Man,24
+67,5,Yes,5,5,Alone,3,CS141,16,4.0,4,4.0,Junior,Man,24
+68,1,Yes,2,3,Partner,3,CS105,16,3.5,2.9,3.4,Junior,Man,20
+69,4,No,4,4,Partner,4,CS105,13,3.9,3.8,3.77,Sophomore,Man,19
+70,3,Yes,4,4,Partner,4,CS105,12,4.0,3.98,3.95,Sophomore,Woman,20
+71,2,No,4,4,Alone,2,CS105,16,,3.34,3.34,Junior,,21
+72,5,Yes,4,4,All the above,4,CS105,16,,2.9,2.75,Senior,Man,22
+73,4,No,4,3,All the above,3,CS111,16,4.0,4,4.0,Sophomore,Man,19
+74,4,Yes,3,4,In groups,3,CS141,18,4.0,3.77,3.75,Junior,Man,21
+75,4,Yes,4,3,In groups,3,I'm not in any of those classes,12,3.7,4,3.91,Junior,Man,21
+76,5,No,2,3,Partner,2,CS105,17,3.5,3.12,3.12,Junior,Woman,20
+77,3,No,2,3,Alone,3,CS105,13,2.1,2.3,2.2,Junior,Man,25
+78,5,Yes,5,5,All the above,5,CS105,17,4.0,4,4.0,Junior,Man,20
+79,1,No,3,2,Alone,3,CS150,16,3.4,2.3,3.2,Senior,Transgender-Woman,22
+80,5,No,4,3,All the above,3,CS105,17,4.0,4,4.0,Sophomore,Man,19
+81,5,No,4,3,Alone,4,CS111,14,3.4,3.33,3.1,Junior,Man,21
+82,4,No,4,3,Alone,3,CS111,12,4.0,4,4.0,Junior,Man,19
+83,1,No,2,2,Alone,1,CS111,12,3.6,4,3.7,Junior,Man,20
+84,4,Yes,4,4,Partner,5,CS105,11,4.0,4,4.0,Junior,Woman,21
+85,3,Yes,2,3,Partner,3,CS141,12,3.2,3,3.33,Junior,Man,21
+86,5,No,4,3,Partner,4,cs150,12,2.9,,2.5,Senior,Woman,21
+87,3,No,3,3,Partner,4,CS111,17,3.5,2.85,3.22,Sophomore,Man,19
+88,3,No,3,4,All the above,2,CS105,16,2.5,2.5,2.5,Junior,Man,21
